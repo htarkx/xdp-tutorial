@@ -70,3 +70,8 @@ xdp_sample_pkts_user
 
 # configure output
 config.mk
+
+# Nix / direnv local caches
+.direnv/
+result
+result-*
